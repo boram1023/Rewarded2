@@ -1,0 +1,1 @@
+module.exports = { connect: () => console.log('DB Connected') };
